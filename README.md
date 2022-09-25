@@ -1,6 +1,6 @@
- ##    IFTM - Instituto Federal do Triângulo Mineiro #### Paracatu MG
+ ##    IFTM - Instituto Federal do Triângulo Mineiro 
    
-   ##### Paracatu-MG
+   #####       Paracatu-MG
  
  ##  Programação Orientada a Objetos - TADS
     
