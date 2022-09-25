@@ -6,13 +6,9 @@
     
        
       
-   ###  Aluno: Cristian Alves Silva
-      
-   ###  Matricula: 12104835640-1
-      
-   ### Professor: Josimar Viana Silva
-   
-    
+   ###  Aluno: Cristian Alves Silva      
+   ### Professor: Josimar Viana
+       
     
     
 #### Projeto desenvolvido em java, com paradigma de Orientação a Objetos;
@@ -21,13 +17,10 @@
       
 #### O software trata-se de um CRUD responsável pelo controle acadêmico de uma escola.
       
-#### Controle de alunos, professores e turmas.
-      
+#### Controle de alunos, professores e turmas. 
       
       
    
       
-####  Conteudo do software: CRUD de Alunos, Professores e Turmas.
-      
-####  Software ainda em desenvolvimento, sem previsão de finalização!
+
     
